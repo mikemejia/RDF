@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//http://www.stochasticgeometry.ie/2008/05/06/implementing-hat-tries-in-java/ 
+ 
 package yearproject;
 
 import java.util.ArrayList;
